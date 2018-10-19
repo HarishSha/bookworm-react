@@ -19,6 +19,7 @@ module.exports = {
         "node": true
       },
     "rules": {
+        "react/jsx-uses-vars": [2],
         "react/jsx-uses-react": 1,
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
     }
